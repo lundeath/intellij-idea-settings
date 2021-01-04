@@ -1,0 +1,16 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isTabsShadow" value="false" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="settingsSelectedTab" value="3" />
+    <option name="tabsHeight" value="24" />
+    <option name="accentColor" value="ff309b" />
+    <option name="secondAccentColor" value="43fce9" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="4b7a0eb6:1762e6e7f66:-8000" />
+    <option name="version" value="5.5.0" />
+  </component>
+</application>

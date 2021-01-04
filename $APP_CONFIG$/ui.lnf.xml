@@ -1,0 +1,10 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="30" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="smoothScrolling" value="false" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
+  </component>
+</application>
