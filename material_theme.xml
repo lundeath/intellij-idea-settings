@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="premium" value="true" />
     <option name="isTabsShadow" value="false" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
@@ -10,8 +11,8 @@
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="ff309b" />
     <option name="secondAccentColor" value="43fce9" />
-    <option name="selectedTheme" value="CUSTOM" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="4b7a0eb6:1762e6e7f66:-8000" />
-    <option name="version" value="6.3.3" />
+    <option name="version" value="6.4.2" />
   </component>
 </application>
